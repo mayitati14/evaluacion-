@@ -6,5 +6,5 @@
 bash: y: command not found
  <body>
  <?php echo '<p>Hola Amigos</p>'; ?>
- </body>
+ </<body bgcolor="#E690FA">
 </html>
